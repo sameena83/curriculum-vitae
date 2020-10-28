@@ -1,0 +1,16 @@
+/*:root{
+    --space-smaller:4px;
+    --space-small:8px;
+    --space-big:16px;
+    --space-bigger:24px;
+    --space-large:48px;
+
+}*/
+:root {
+    /* Spacing */
+    --space-smaller: 4px;
+    --space-small: 8px;
+    --space-medium: 16px;
+    --space-big: 24px;
+    --space-bigger: 48px;
+  }
